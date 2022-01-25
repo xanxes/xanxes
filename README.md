@@ -1,6 +1,5 @@
 ## Olá!! Eu sou o Sanches
-📚 Estudante do SENAI
-<p>
+📚 Estudante do SENAI <br>
 🖥️ Cursando Técnico em Desenvolvimento de sistemas
 
 <div align="center">
