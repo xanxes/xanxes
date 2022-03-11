@@ -1,6 +1,7 @@
 ## Olá!! Eu sou o Sanches
-📚 Estudante do SENAI <br>
-🖥️ Cursando Técnico em Desenvolvimento de sistemas
+📚 Estudante do SENAI. <br>
+🖥️ Cursando Técnico em Desenvolvimento de Sistemas. <br>
+🏫 Ensino Médio no SESI. <br>
 
 <div align="center">
   <a href="https://github.com/xanxes">
