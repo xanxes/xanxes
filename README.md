@@ -10,7 +10,7 @@
 </div>
 <br>
 
-![tecnologias](https://skills.thijs.gg/icons?i=figma,nodejs,javascript,html,css,scss,typescript,react,java&theme=light)
+![tecnologias](https://skills.thijs.gg/icons?i=figma,nodejs,javascript,html,css,scss,typescript,react,java,kotlin,xml,&theme=light)
   
  <img align="right" alt="Sanches-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/776416726497361933/935570107126648862/a2f67de0-93da-450c-916e-1ebdb11137a6-profile_image-300x300.png?width=676&height=676">
 </div>
@@ -20,4 +20,6 @@
   <a href="https://twitter.com/Xanxesbr" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="></a>
   <div>
   
+  <br>
   
+  [![Spotify](https://novatorem-ebon-nu.vercel.app/api/spotify)](https://open.spotify.com/user/jpb8k7l47qps23g1cet7iodnz)
